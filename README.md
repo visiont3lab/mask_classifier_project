@@ -1,3 +1,3 @@
 # mask_classifier_project
 Progetto di machine learning -- mask classifier
-ciao mi chiamo kevin
+ciao mi chiamo kevin dsad sakldkasldksa lkd asdsadsadsa
