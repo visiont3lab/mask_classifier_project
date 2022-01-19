@@ -9,4 +9,6 @@ source env/bin/activate -- source env/Scripts/activate
 pip install -r requirements.txt
 
 python facedetector.py
+python test_svm.py
+python test_svm_basic.py
 ```
