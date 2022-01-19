@@ -9,8 +9,8 @@ Progetto qe wqeqe di machine learning -- mask classifier
 ewqeqw eqw
 ciao mi c ewqeqw
 assad sawqe
-wqe ewqe
+wqe ewqedsad sada
 
 ewqewqe
 ciao mi chiamo sara
-ewqe wqesad adsa
+ewqe wqesad adsad sad
