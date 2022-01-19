@@ -1,16 +1,12 @@
-# mask_claer
-Progetto di machine learning -- mask classifier
+# Masck classifier project
 
-ciao mi c erewrew 33 dsadad sa
-d adadas
-dsa dsa
+```
+# avere python3.8 e pip installato
+virtualenv --python=python3.8 env
+source env/bin/activate -- source env/Scripts/activate
 
-Progetto qe wqeqe di machine learning -- mask classifier
-ewqeqw eqw
-ciao mi c ewqeqw
-assad sawqe
-wqe ewqedsad sada
+# pip freeze >> requirements.txt
+pip install -r requirements.txt
 
-ewqewqe
-ciao mi chiamo sara
-ewqe wqesad adsad sad
+python facedetector.py
+```
