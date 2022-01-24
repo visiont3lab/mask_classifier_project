@@ -2,6 +2,7 @@ import cv2
 import os
 import numpy as np
 
+# Model loaded
 model_face = cv2.CascadeClassifier("haar-cascade-files/haarcascade_frontalface_default.xml")
 model_eye = cv2.CascadeClassifier("haar-cascade-files/haarcascade_smile.xml")
 
@@ -23,7 +24,7 @@ while ( cap.isOpened() ):
 
         ##########
         # classifier prediction
-        
+
         ##########
 
         eyes = model_eye.detectMultiScale(roi,scaleFactor=1.1,minNeighbors=4, flags=cv2.CASCADE_DO_ROUGH_SEARCH | cv2.CASCADE_SCALE_IMAGE)
